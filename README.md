@@ -61,7 +61,7 @@ The two meetings will be identical, so if you miss one and the recording isn't o
 | Asset | Link        |
 |:-----------|:------------|
 | 🔗 Meeting Schedule | [Linux Foundation Zoom](https://zoom-lfx.platform.linuxfoundation.org/meetings/kubefleet?view=month).
-| 🎥 Meeting Recordings | [YouTube](https://www.youtube.com/playlist?list=PLrZ6kld_pvgwYMLI-j_f0Dq2Dgv5MlK8R)
+| 🎥 Meeting Recordings | [YouTube](https://www.youtube.com/@CNCFKubeFleet)
 
 ### Agenda and topics
 
